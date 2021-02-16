@@ -6,7 +6,7 @@ import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 import Logo from './components/logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
-import Rank from './components/Rank/Rank';
+import Rank from './components/rank/Rank';
 import './App.css';
 
 const particlesOptions = {
